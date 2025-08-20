@@ -1,0 +1,13 @@
+# Node
+node_modules/
+.npm/
+
+# Playwright
+playwright/.cache/
+
+# Build output
+site/
+
+# OS/editor
+.DS_Store
+*.log
